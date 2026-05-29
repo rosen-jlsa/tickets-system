@@ -1,0 +1,6 @@
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\bin\Debug\TicketOrderingSystem.exe
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\bin\Debug\TicketOrderingSystem.pdb
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\obj\Debug\TicketOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\obj\Debug\TicketOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\obj\Debug\TicketOrderingSystem.exe
+C:\Users\rosen\Desktop\School project\05.29.26-finnal\tickets system\obj\Debug\TicketOrderingSystem.pdb
